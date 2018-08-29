@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d75e08e3-f555-4349-b15d-5672334eb2d7" name="Default Changelist" comment="" />
+    <list default="true" id="d75e08e3-f555-4349-b15d-5672334eb2d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tk/model/Gif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tk/model/Gif.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -116,7 +118,29 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tk/model/Gif.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+                <element signature="e#804#805#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
+                <element signature="e#928#929#0" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1053#1054#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -142,6 +166,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -596,6 +623,7 @@
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -667,7 +695,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535543373928" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535543463850" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -778,6 +806,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1087" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3774617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -793,7 +822,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32948583" />
@@ -889,7 +918,29 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tk/model/Gif.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
