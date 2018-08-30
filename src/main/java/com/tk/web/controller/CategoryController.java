@@ -1,4 +1,4 @@
-package com.tk.controller;
+package com.tk.web.controller;
 
 
 import com.tk.data.CategoryRepository;

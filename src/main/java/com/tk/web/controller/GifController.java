@@ -1,4 +1,4 @@
-package com.tk.controller;
+package com.tk.web.controller;
 
 
 import com.tk.data.GifRepository;
@@ -22,13 +22,13 @@ public class GifController {
     public String listGifs(ModelMap modelMap) {
         List<Gif> allGifs = gifRepository.getAllGifs();
         modelMap.put("gifs",allGifs);
-        return "home";
+        return "layout";
     }
 
     @RequestMapping("/gif/{name}")
     public String gifDetails(@PathVariable String name, ModelMap modelMap) {
         Gif gif = gifRepository.findByName(name);
         modelMap.put("gif",gif);
-        return "gif-details";
+        return "/gif/details";
     }
 }
